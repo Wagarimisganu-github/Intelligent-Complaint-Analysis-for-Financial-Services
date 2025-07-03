@@ -33,13 +33,13 @@ This project builds a **Retrieval-Augmented Generation (RAG)** chatbot to help i
 
 ---
 
-## 📅 Submission
+## 📅 Submitted to:
 
-- 🟡 **Interim:** 06 July 2025 (Task 1 & 2)
-- ✅ **Final:** 08 July 2025 (All Tasks + UI + Report)
+- 🟡 **10 Academy KAIM
+- 
 
 ---
 
-## ✍️ Maintainer
+## ✍️ Developed by:
 
-Rufael Eshetu – KAIM 5 Trainee
+Waggari Misganu Ebsa
